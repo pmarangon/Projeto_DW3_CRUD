@@ -2,4 +2,4 @@
 
 ## GitHub
 
-Paula Masson (https://github.com/pmarangon)
+Paula Masson Marangon (https://github.com/pmarangon)
